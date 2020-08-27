@@ -1,0 +1,124 @@
+body {
+    /*position: relative;*/
+    /*width: 16cm;  */
+    /*height: 29.7cm; */
+    /*margin: 0 auto; */
+    /*color: #555555;*/
+    /*background: #FFFFFF; */
+    font-family: Arial, sans-serif; 
+    font-size: 8px;
+    /*font-family: SourceSansPro;*/
+    }
+    
+    #logo{
+        width: 195px;
+        height: 275px;
+    }
+ 
+    #fact{
+        text-align: center;
+        width: 300px;
+        height: 275px;
+    }
+    #imagen{
+        padding-left: 50px;
+        width: 100px;
+    }
+    .nomEmpresa{
+        font-family: Arial, sans-serif; 
+        font-size: 20px;
+    }
+    #autorizacion{
+        border-style: solid;
+        border-radius: 15px;
+        padding: 5px;
+        font-size: 12px;
+    }
+    
+    .encabezado{
+        text-align: center;
+        font-size: 15px;
+        widows: 664px;
+        height: 50px;
+    }
+
+    #facliente{
+        padding: 10px;
+        border-style: solid;
+        border-radius: 10px;
+        width: 654px;
+        font-size: 12px;
+    }
+
+   
+    #facarticulo{
+        width: 674px;
+        border-collapse: collapse;
+        border-spacing: 0;
+        margin-bottom: 5px;
+        border-style: solid;
+        font-size: 12px;
+    }
+    .facdetalle{
+            border-style: solid;
+        }
+    #titulos{
+        background: #DAD9D8;
+    }
+    #facarticulo tr #codigo,#punitario,#subtotal,#detalle{
+        padding: 10px;
+        border-style: solid;
+    }
+    #codigo,#punitario{
+        text-align: center;
+        width: 50px;
+    }
+    #subtotal{
+        text-align: center;
+        width: 75px;
+    }
+    #detalle{
+        text-align: left;
+        width: 200px;
+    }
+    
+    .facodigo .fapunitario{
+        padding: 20px;
+        border-style: solid;
+        text-align: center;
+        width: 71px;
+        border-style: solid;
+    }
+    .fasubtotal{
+        width: 85px;
+        text-align: center;
+        border-style: solid;
+        padding: 20px;
+        border-style: solid;
+    }
+    .fadetalle{
+        text-align: left;
+        padding-top: 20px;
+        padding-left: 10px;
+        padding-bottom: 20px;
+        border-style: solid;
+    }
+    #fatotal{
+        padding: 15px;
+        border-style: solid;
+        text-align: right;
+        background: #DAD9D8;
+        font-size: 20px;
+        width: 529px;
+    }
+    #total{
+        background: #DAD9D8;
+        font-size: 20px;
+        padding: 15px;
+        text-align: center;
+        border-style: solid;
+        width: 85px;
+    }
+    #literal{
+        border-style: solid;
+    }
